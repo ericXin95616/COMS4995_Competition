@@ -1,3 +1,9 @@
+cocoapi/*
+ckpt-*
+*ckpt-*
+dry-run
+dry-run/*
+*.pk
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
